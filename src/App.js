@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from 'react-dom';
-import css from './style.scss';
+import css from './style/main.scss';
 
 class Test extends React.Component {
     render () {
